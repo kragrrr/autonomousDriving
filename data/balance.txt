@@ -1,0 +1,5 @@
+Total Images Imported 4356
+Removed Images: 1730
+Remaining Images: 2626
+Training Samples: 2100
+Validation Samples: 526
