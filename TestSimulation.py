@@ -13,7 +13,7 @@ import cv2
 
 sio = socketio.Server()
 app = Flask(__name__)
-maxSpeed = 40
+maxSpeed = 25
 
 def preProcess(img):
     img = img[60:135, :, :]
